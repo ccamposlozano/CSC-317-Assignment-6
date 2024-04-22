@@ -1,6 +1,4 @@
-# CSC-317-Assignment-6
-
-# Word Frequency Counter
+# CSC-317-Assignment-6 Word Frequency Counter
 
 ## Overview
 
