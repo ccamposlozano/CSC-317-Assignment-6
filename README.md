@@ -6,4 +6,4 @@ This project implements a simple web application that analyzes the frequency of 
 
 ## Learning Journey
 
-Embarking on this project, I delved into the intricacies of JavaScript, HTML, and CSS integration. The process sharpened my understanding of DOM manipulation as I dynamically created elements based on user interaction. I learned to manage and link external files such as style sheets and scripts to HTML, ensuring a separation of concerns and cleaner code architecture.
+On this project, I learned more about JavaScript, HTML, and CSS integration. The process help me with my understanding of DOM manipulation as I dynamically created elements based on user interaction. I learned to manage and link external files such as style sheets and scripts to HTML.
